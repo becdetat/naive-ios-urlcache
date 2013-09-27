@@ -1,4 +1,4 @@
-# Naive offline cache for iOS application `UIWebView`
+# Naive offline cache for iOS `UIWebView` applications
 
 Dropping this in to an iOS application will allow `UIWebView` to work offline.
 
